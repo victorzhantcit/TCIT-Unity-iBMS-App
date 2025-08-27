@@ -1,0 +1,1557 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: iBMS_Localization_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 84a0ca27a91960b43a41a6e3fdaca487, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 40571522199552
+    m_Localized: ',Hello'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36535133745153
+    m_Localized: User ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421825
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36535133745152
+    m_Localized: TCIT iBMS App
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421826
+    m_Localized: Log in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421827
+    m_Localized: Log out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421828
+    m_Localized: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421829
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421830
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421831
+    m_Localized: View
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421832
+    m_Localized: Process
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421833
+    m_Localized: Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421834
+    m_Localized: Batch receipt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421835
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421836
+    m_Localized: Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421837
+    m_Localized: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421838
+    m_Localized: Resubmite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421839
+    m_Localized: Save Patrol Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421840
+    m_Localized: Save Manual Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421841
+    m_Localized: Replace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421842
+    m_Localized: Save Photos of Pre-Processing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421843
+    m_Localized: Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421844
+    m_Localized: Select All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421845
+    m_Localized: Unselect All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421846
+    m_Localized: Return History
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421847
+    m_Localized: Return Production Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421848
+    m_Localized: Modify
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421849
+    m_Localized: Back to Order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421850
+    m_Localized: Back to Order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421851
+    m_Localized: Save The Before Photo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421852
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421853
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421854
+    m_Localized: Turn on camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421855
+    m_Localized: Turn off camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421856
+    m_Localized: Reload now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421857
+    m_Localized: Daily Insp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421858
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421859
+    m_Localized: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421860
+    m_Localized: Change password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421861
+    m_Localized: Surface grinding and repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421862
+    m_Localized: Surface welding repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421863
+    m_Localized: Internal welding repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421864
+    m_Localized: Steel plate surface repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421865
+    m_Localized: Internal defects of steel plate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421866
+    m_Localized: Annual Plan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421867
+    m_Localized: Critical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421868
+    m_Localized: No change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421869
+    m_Localized: Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421870
+    m_Localized: Running
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421871
+    m_Localized: Single
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421872
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421873
+    m_Localized: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421874
+    m_Localized: Urgent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421875
+    m_Localized: Dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421876
+    m_Localized: Production Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421877
+    m_Localized: QRcode Scanning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421878
+    m_Localized: Feed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421879
+    m_Localized: N.D.T.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421880
+    m_Localized: Traceability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421881
+    m_Localized: History QRcode scanning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421882
+    m_Localized: Inspection Orders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421883
+    m_Localized: QRcode Scanning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421884
+    m_Localized: Work Orders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421885
+    m_Localized: QRcode Scanning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421886
+    m_Localized: Repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421887
+    m_Localized: QRcode Scanning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421888
+    m_Localized: Maintenance Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421889
+    m_Localized: Device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421890
+    m_Localized: QRcode Scanning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421891
+    m_Localized: History
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421905
+    m_Localized: Add handover record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421906
+    m_Localized: handover record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421907
+    m_Localized: Change Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421908
+    m_Localized: No matching roles !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421909
+    m_Localized: Login failed !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421910
+    m_Localized: Are you sure ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421911
+    m_Localized: This is the QA site, please scan again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421912
+    m_Localized: This is the production line operator's site, please rescan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421913
+    m_Localized: An error occurred !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421914
+    m_Localized: No such weld bead setup!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421915
+    m_Localized: Other quality assurance staff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421916
+    m_Localized: Other operators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421917
+    m_Localized: are working!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421918
+    m_Localized: Not welded yet, no QC work possible!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421919
+    m_Localized: Component 1 has not been confirmed by the incoming material, please
+      ask QC personnel to confirm the incoming material first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421920
+    m_Localized: Component 2 has not been confirmed by the incoming material, please
+      ask QC personnel to confirm the incoming material first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421921
+    m_Localized: Error in connecting to the API
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421922
+    m_Localized: Working with others!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421923
+    m_Localized: Max. Limit 5 photos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421924
+    m_Localized: Please select at least one welding method!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421925
+    m_Localized: Please enter the welding material number!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421926
+    m_Localized: Please enter the final temperature!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421927
+    m_Localized: Please attach photos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421928
+    m_Localized: No records found!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421929
+    m_Localized: An error occurred in program analysis!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421930
+    m_Localized: Incorrect format in QR code!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421931
+    m_Localized: Please enter the summary of equipment inspection!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421932
+    m_Localized: Please take photos of the unusual situation!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421933
+    m_Localized: Item N was not selected to check results!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421934
+    m_Localized: Please enter completion instructions!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421935
+    m_Localized: This scan requires the site QR Code, and the operator scanned the
+      component QR Code, please scan again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421936
+    m_Localized: This scan requires component QR Code, the operator scanned the site
+      QR Code, please scan again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421937
+    m_Localized: There is no site QR Code in the scanned content, please scan again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421938
+    m_Localized: There is no component QR Code in the scanned content, please scan
+      again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421939
+    m_Localized: The content of the QR code is wrong, and the Json string analysis
+      cannot be completed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421940
+    m_Localized: Please enter remarks for the device!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421941
+    m_Localized: Please attach processed photos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421942
+    m_Localized: Enter User ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421943
+    m_Localized: Enter Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421944
+    m_Localized: This scan requires the site QR Code, the operator scanned the device
+      QR Code, please scan again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421945
+    m_Localized: Please enter issue!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421946
+    m_Localized: Added successfully!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421947
+    m_Localized: Successfully modified!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421948
+    m_Localized: There is no device QR Code in the scanned content, please scan again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421949
+    m_Localized: Not the QR Code of this device, please scan again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421950
+    m_Localized: Please take photos before processing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421951
+    m_Localized: A new version was found.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421952
+    m_Localized: There is no daily maintenance checklist for this device!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421953
+    m_Localized: The device does not exist!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421954
+    m_Localized: Wrong password !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421955
+    m_Localized: Please re-enter new password.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421956
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421957
+    m_Localized: Remember
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421958
+    m_Localized: STORAGE_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421959
+    m_Localized: STORAGE_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421960
+    m_Localized: STORAGE_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421961
+    m_Localized: EVO Bending Roller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421962
+    m_Localized: HDR Bending Roller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421963
+    m_Localized: Long Inner Welding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421964
+    m_Localized: Long Seam Milling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421965
+    m_Localized: Long Outer Welding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421966
+    m_Localized: N.D.T._01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421967
+    m_Localized: Assembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421968
+    m_Localized: Cir Inner Welding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421969
+    m_Localized: Cir Seam Milling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421970
+    m_Localized: CirOut Welding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421971
+    m_Localized: Shear Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421972
+    m_Localized: Stabbing Assembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421973
+    m_Localized: Stabbing Assembly to Can
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421974
+    m_Localized: Positioning plate Assembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421975
+    m_Localized: Grout Pipe Assembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421976
+    m_Localized: N.D.T._02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421977
+    m_Localized: Finished Product
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421978
+    m_Localized: Repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421979
+    m_Localized: N.D.T._Shear Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421980
+    m_Localized: Stabbing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421981
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421982
+    m_Localized: TCIT iBMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421983
+    m_Localized: Ack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421984
+    m_Localized: Approving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421985
+    m_Localized: Cancelled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421986
+    m_Localized: Changed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421987
+    m_Localized: Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421988
+    m_Localized: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421989
+    m_Localized: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421990
+    m_Localized: Deliverred
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421991
+    m_Localized: FAIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421992
+    m_Localized: Handed over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421993
+    m_Localized: To be handed over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421994
+    m_Localized: IDLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421995
+    m_Localized: Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421996
+    m_Localized: Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421997
+    m_Localized: Loading camera...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421998
+    m_Localized: MAINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473421999
+    m_Localized: Not Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422000
+    m_Localized: Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422001
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422002
+    m_Localized: Pending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422003
+    m_Localized: Processed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422004
+    m_Localized: Processing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422005
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422006
+    m_Localized: Receipt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422007
+    m_Localized: Received
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422008
+    m_Localized: Another
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422009
+    m_Localized: Reject
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422010
+    m_Localized: Remind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422011
+    m_Localized: REPAIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422012
+    m_Localized: Saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422013
+    m_Localized: Scheduled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422014
+    m_Localized: Sent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422015
+    m_Localized: Setted Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422016
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422017
+    m_Localized: Submitted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422018
+    m_Localized: Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422019
+    m_Localized: Ready To Ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422020
+    m_Localized: To be repaired
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422021
+    m_Localized: To be accepted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422022
+    m_Localized: To be inspected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422023
+    m_Localized: Unack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422024
+    m_Localized: Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422025
+    m_Localized: N.G.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422026
+    m_Localized: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422027
+    m_Localized: Cancelled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422028
+    m_Localized: Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422029
+    m_Localized: Alarm Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422030
+    m_Localized: Before processing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422031
+    m_Localized: Section
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422032
+    m_Localized: Check Form
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422033
+    m_Localized: Inspection Contents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422034
+    m_Localized: Class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422035
+    m_Localized: Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422036
+    m_Localized: Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422037
+    m_Localized: Completion Report
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422038
+    m_Localized: Component
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422039
+    m_Localized: Confirm the new password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422040
+    m_Localized: Consumables Replacement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422041
+    m_Localized: Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422042
+    m_Localized: CWPF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422043
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422044
+    m_Localized: Dept.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422045
+    m_Localized: Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422046
+    m_Localized: Device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422047
+    m_Localized: Device Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422048
+    m_Localized: Enter your password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422049
+    m_Localized: Estimated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422050
+    m_Localized: Date Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422051
+    m_Localized: Temp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422052
+    m_Localized: First Component
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422053
+    m_Localized: Remarks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508473422054
+    m_Localized: Handover matters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616128
+    m_Localized: Receiving Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616129
+    m_Localized: Handover Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616130
+    m_Localized: Idle Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616131
+    m_Localized: Inspection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616132
+    m_Localized: Insp. by
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616133
+    m_Localized: Insp. Date
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616134
+    m_Localized: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616135
+    m_Localized: List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616136
+    m_Localized: Insp. Order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616137
+    m_Localized: Order No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616138
+    m_Localized: Issue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616139
+    m_Localized: Issue Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616140
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616141
+    m_Localized: Location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616142
+    m_Localized: Total Man Hour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616143
+    m_Localized: Manufacturer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616144
+    m_Localized: By
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616145
+    m_Localized: ModelNo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616146
+    m_Localized: New order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616147
+    m_Localized: New Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616148
+    m_Localized: No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616149
+    m_Localized: OffLine Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616150
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616151
+    m_Localized: Process
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616152
+    m_Localized: Process Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616153
+    m_Localized: Processed Photo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616154
+    m_Localized: Processing Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616155
+    m_Localized: Processor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616156
+    m_Localized: Product
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616157
+    m_Localized: Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616158
+    m_Localized: Reason
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616159
+    m_Localized: Receiving Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616160
+    m_Localized: Guideline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616161
+    m_Localized: Instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616162
+    m_Localized: Reject
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616163
+    m_Localized: Remark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616164
+    m_Localized: Repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616165
+    m_Localized: Rep. Order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616166
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616167
+    m_Localized: Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616168
+    m_Localized: Respondent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616169
+    m_Localized: Respond Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616170
+    m_Localized: Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616171
+    m_Localized: Running time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616172
+    m_Localized: Status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616173
+    m_Localized: Schedule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616174
+    m_Localized: Set by
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616175
+    m_Localized: Set Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616176
+    m_Localized: Site
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616177
+    m_Localized: Spend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616178
+    m_Localized: Starting Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616179
+    m_Localized: Status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616180
+    m_Localized: Summarize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616181
+    m_Localized: Alarm Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616182
+    m_Localized: Insp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616183
+    m_Localized: Maint.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616184
+    m_Localized: Normal Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616185
+    m_Localized: Tel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616186
+    m_Localized: Total Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616187
+    m_Localized: Type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616188
+    m_Localized: Upload Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616189
+    m_Localized: Warranty Date
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616190
+    m_Localized: Weld Bead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616191
+    m_Localized: Method
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616192
+    m_Localized: Work by
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616193
+    m_Localized: Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616194
+    m_Localized: Leader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616195
+    m_Localized: List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616196
+    m_Localized: Work Order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616197
+    m_Localized: Order No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616198
+    m_Localized: Starting Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616199
+    m_Localized: W.C.No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616200
+    m_Localized: Pre bending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616201
+    m_Localized: Cutting Flat End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616202
+    m_Localized: Rollers Plate Bending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616203
+    m_Localized: Tack Welding Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616204
+    m_Localized: Re-rolling Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616205
+    m_Localized: Pre-heat Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616206
+    m_Localized: Welding Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616207
+    m_Localized: Seam Milling Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616208
+    m_Localized: VT Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616209
+    m_Localized: MT Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616210
+    m_Localized: UT Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616211
+    m_Localized: Assembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616212
+    m_Localized: UnAssembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616213
+    m_Localized: Assembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616214
+    m_Localized: UnAssembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616215
+    m_Localized: History Query
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40508477616216
+    m_Localized: Grind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199553
+    m_Localized: N.G.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199554
+    m_Localized: N.G.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199555
+    m_Localized: Clean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199556
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199557
+    m_Localized: All product project codes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199558
+    m_Localized: All Plate And Assemblies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199559
+    m_Localized: m
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199560
+    m_Localized: Min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199561
+    m_Localized: Photos can be attached.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199562
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199563
+    m_Localized: QC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199564
+    m_Localized: By
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199565
+    m_Localized: Issued by
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199566
+    m_Localized: F
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199567
+    m_Localized: Positioning plate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199568
+    m_Localized: Launch process
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199569
+    m_Localized: In-plant component number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199570
+    m_Localized: Finished product status setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199571
+    m_Localized: Finished Product No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199572
+    m_Localized: Manual cleaning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199573
+    m_Localized: R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199574
+    m_Localized: Scan component QR code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199575
+    m_Localized: Scan component QR code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199576
+    m_Localized: Scan component QR code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199577
+    m_Localized: OP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199578
+    m_Localized: Collapse process
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199579
+    m_Localized: h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199580
+    m_Localized: Final temperature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199581
+    m_Localized: Owner's original item number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199582
+    m_Localized: Inspector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199583
+    m_Localized: Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199584
+    m_Localized: Grout Pipe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199585
+    m_Localized: Grout Pipe Fitting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199586
+    m_Localized: Photo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199587
+    m_Localized: Abnormal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199588
+    m_Localized: Visual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199589
+    m_Localized: Transferor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199590
+    m_Localized: Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199591
+    m_Localized: C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199592
+    m_Localized: Before processing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199593
+    m_Localized: Before processing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199594
+    m_Localized: After processing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199595
+    m_Localized: Device ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199596
+    m_Localized: Scan the QR Code of the site first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199597
+    m_Localized: Please scan the device QR code first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199598
+    m_Localized: Choose Finished Product No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199599
+    m_Localized: Choose CWPF.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199600
+    m_Localized: Choose Welding Bead.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199601
+    m_Localized: Choose Welding Bead.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199602
+    m_Localized: Please attach a photo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199603
+    m_Localized: Change product status.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199604
+    m_Localized: Enter the handover content.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199605
+    m_Localized: Input a note description.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199606
+    m_Localized: Input final temperature.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199607
+    m_Localized: Input Issue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199608
+    m_Localized: Enter a summary.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199609
+    m_Localized: Input Welding Consumables No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199610
+    m_Localized: Welding Consumables No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199611
+    m_Localized: Welding Num
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199612
+    m_Localized: Welding Bead No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199613
+    m_Localized: Plate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199614
+    m_Localized: By
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199615
+    m_Localized: Acceptance No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199616
+    m_Localized: Dirty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199617
+    m_Localized: T.W.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40571522199618
+    m_Localized: No Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143432511008768
+    m_Localized: You are in offline mode. Data will be uploaded when the network
+      is restored.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6885453347893248
+    m_Localized: Unable to turn on camera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12631394730323968
+    m_Localized: Total
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12633148209442816
+    m_Localized: Uploads Pending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12995065327333376
+    m_Localized: This app requires access to the camera for capturing photos or video
+      streams.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12995380164374528
+    m_Localized: App uses localization data to present content in your preferred
+      language.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
